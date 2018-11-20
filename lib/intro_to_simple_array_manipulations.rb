@@ -32,7 +32,7 @@ def using_delete(array, string)
   array.delete(string ==)
 end 
 def using_delete(array, integer)
-  array.delete(string)
+  array.delete()
 end 
 def using_delete_at(array, integer)
-  array.delete_at(integer)
+  array.delete_at()
